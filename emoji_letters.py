@@ -23,6 +23,7 @@ mapping = {
     "t" : "latin_cross",
     "u" : "ophiuchus",
     "v" : "aries",
+    "w" : "open_hands",
     "x" : "heavy_multiplication_x",
     "y" : "v",
     "z" : "zzz",
